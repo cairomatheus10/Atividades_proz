@@ -32,4 +32,11 @@ img {
     color: black;
 }
 
+.section {
+    display: flex;
+}
+
+.div {
+    padding: 2em;
+}
 
