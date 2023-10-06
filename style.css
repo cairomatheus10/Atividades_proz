@@ -6,6 +6,7 @@
     text-align: center;
     padding: 5%;
     font-size: 60px;
+    font-family: 'Maven Pro', sans-serif;
 }
 
 img {
@@ -30,6 +31,7 @@ img {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; 
     color: black;
+    font-family: 'Maven Pro', sans-serif;
 }
 
 .section {
